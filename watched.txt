@@ -220,3 +220,6 @@
 - Cube
 - Dogma
 - Tomb Raider
+- Mission: Impossible
+- Spy Game
+- Spy Kids
