@@ -269,5 +269,6 @@
 - Blade
 - Blade 2
 - The Beach
-
+- The Ring
+- Dark Water
 
