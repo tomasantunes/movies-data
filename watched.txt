@@ -293,3 +293,4 @@
 - The Art of The Algorithms
 - Indie Game: The Movie
 - Lord of War
+- Now You See Me
