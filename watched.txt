@@ -4,6 +4,7 @@
 - Pinocchio
 - Aladdin
 - Beauty and the Beast
+- Prince and the Pauper
 - Fantasia
 - A Bug’s Life
 - Shrek
